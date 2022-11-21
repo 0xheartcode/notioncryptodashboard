@@ -1,0 +1,6 @@
+  "CoingeckoID": {
+   "id": "f%3CG%7B",
+   "name": "CoingeckoID",
+   "type": "rich_text",
+   "rich_text": {}
+
