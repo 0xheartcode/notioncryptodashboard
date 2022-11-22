@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+=======
+# notioncryptodashboard
+notion crypto dashboard elite hacker 
+
+Messing around with notion API and Coingecko API to make a dashboard.
+
+
+
 Mmm, might need to add a little structure to this document.
 Here is the structure for this little project.
 
@@ -19,11 +26,4 @@ Here is the structure for this little project.
 10) write fetched price into notions API.
 
 11) to the stars and beyond.
-=======
-# notioncryptodashboard
-notion crypto dashboard elite hacker 
 
-Messing around with notion API and Coingecko API to make a dashboard.
-
-aaa
->>>>>>> 23cc41a18b76abde7b6ea20e43caf494a5ffe2d0
