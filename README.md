@@ -10,12 +10,12 @@ Mmm, might need to add a little structure to this document.
 Here is the structure for this little project.
 
 
-1) Connect to Notion.so API
-2) Ping database with script
-3) Fetch database with python
-4) Clean up database in JSON
-5) Fetch single coingeckoID (this will be our unique ID) from database
-6) Fetch multiple coingeckoID from database
+1) ~~Connect to Notion.so API~~
+2) ~~Ping database with script~~
+3) ~~Fetch database with python~~
+4) ~~Clean up database in JSON~~
+5) ~~Fetch single coingeckoID (this will be our unique ID) from database~~
+6) ~~Fetch multiple coingeckoID from database~~
 
 --> we are here <--
 
